@@ -1,0 +1,288 @@
+York, United Kingdom, 53.58, -1.6
+Wrocester, United Kingdom, 52.11, -2.12
+Wolverhampton, United Kingdom, 52.35, -2.7
+Winchester, United Kingdom, 51.4, -1.18
+Wells, United Kingdom, 51.13, -2.39
+Wakefield, United Kingdom, 53.41, -1.29
+Truro, United Kingdom, 50.16, -5.4
+Swansea, United Kingdom, 51.38, -3.57
+Sunderland, United Kingdom, 54.55, -1.23
+Stoke-on-Trent, United Kingdom, 53, -2.1
+Stirling, United Kingdom, 56.07, -3.57
+St Albans, United Kingdom, 51.46, -0.21
+Southampton, United Kingdom, 50.54, -1.23
+Sheffield, United Kingdom, 53.23, -1.3
+Salisbury, United Kingdom, 51.4, -1.47
+Salford, United Kingdom, 53.3, -2.18
+Ripon, United Kingdom, 54.91, -1.31
+Preston, United Kingdom, 53.46, -2.42
+Portsmouth, United Kingdom, 50.48, -1.06
+Plymouth, United Kingdom, 50.22, -4.1
+Peterborough, United Kingdom, 52.35, -0.15
+Oxford, United Kingdom, 51.46, -1.15
+Nottingham, United Kingdom, 52.58, -1.1
+Norwich, United Kingdom, 52.38, 1.18
+Newry, United Kingdom, 54.11, -6.2
+Newport, United Kingdom, 50.42, -1.18
+Newcastle-upon-Tyne, United Kingdom, 54.58, -1.36
+Manchester, United Kingdom, 53.29, -2.12
+Liverpool, United Kingdom, 53.25, -2.55
+Lisburn, United Kingdom, 54.31, -6.03
+Lincoln, United Kingdom, 53.14, -0.33
+Lichfield, United Kingdom, 52.42, -1.48
+Leicester, United Kingdom, 52.38, -1.05
+Leeds, United Kingdom, 50.1, -5.22
+Lancaster, United Kingdom, 54.03, -2.48
+Kingston upon Hull, United Kingdom, 53.45, -0.21
+Inverness, United Kingdom, 57.27, -4.15
+Hereford, United Kingdom, 52.04, -2.43
+Gloucester, United Kingdom, 51.53, -2.15
+Glasgow, United Kingdom, 55.53, -4.15
+Exeter, United Kingdom, 50.43, -3.31
+Ely, United Kingdom, 52.24, 0.16
+Edinburgh, United Kingdom, 55.57, -3.13
+Durham, United Kingdom, 54.47, -1.34
+Dundee, United Kingdom, 56.28, -3
+Derby, United Kingdom, 52.56, -1.28
+Coventry, United Kingdom, 52.25, -1.28
+Chichester, United Kingdom, 50.5, -0.47
+Chester, United Kingdom, 53.12, -2.53
+Carlisle, United Kingdom, 54.54, -2.55
+Cardiff, United Kingdom, 51.29, -3.13
+Canterbury, United Kingdom, 51.16, 1.06
+Cambridge, United Kingdom, 52.12, 0.08
+Bristol, United Kingdom, 51.26, -2.35
+Brighton, United Kingdom, 50.49, -0.07
+Bradford, United Kingdom, 53.47, -1.45
+Birmingham, United Kingdom, 52.29, -1.52
+Bath, United Kingdom, 51.23, -2.22
+Armagh, United Kingdom, 54.21, -6.39
+Aberdeen, United Kingdom, 57.1, -2.04
+Zagreb, Croatia, 45.8144, 15.978
+Yerevan, Armenia, 40.1811, 44.5136
+Yaoundé, Cameroon, 3.86667, 11.5167
+Yamoussoukro, Côte d’Ivoire, 6.81667, -5.28333
+Windhoek, Namibia, -22.5594, 17.0832
+Willemstad, Curaçao, 12.1084, -68.9335
+Wellington, New Zealand, -41.2866, 174.776
+Washington,  DC, 0, 38.8951
+Warsaw, Poland, 52.2298, 21.0118
+Vilnius, Lithuania, 54.6892, 25.2798
+Vientiane, Laos, 17.9667, 102.6
+Vienna, Austria, 48.2085, 16.3721
+Victoria, Seychelles, -4.61667, 55.45
+Vatican City, Vatican, 41.9024, 12.4533
+Valletta, Malta, 35.8997, 14.5147
+Vaduz, Liechtenstein, 47.1415, 9.52154
+Ulaanbaatar, Mongolia, 47.9077, 106.883
+Tunis, Tunisia, 36.819, 10.1658
+Tripoli, Libya, 32.8752, 13.1875
+Tokyo, Japan, 35.6149, 139.581
+Tirana, Albania, 41.3275, 19.8189
+Thimphu, Bhutan, 27.4661, 89.6419
+The Valley, Anguilla, 18.217, -63.0578
+Tegucigalpa, Honduras, 14.0818, -87.2068
+Tbilisi, Georgia, 41.6941, 44.8337
+Tashkent, Uzbekistan, 41.2647, 69.2163
+Tarawa, Kiribati, 1.3278, 172.977
+Tallinn, Estonia, 59.437, 24.7535
+Taipei, Taiwan, 25.0478, 121.532
+Thorshavn, Faroe Islands, 62.0097, -6.77164
+Suva, Fiji, -18.1416, 178.441
+Sucre, Bolivia, -19.0333, -65.2627
+Stockholm, Sweden, 59.3326, 18.0649
+Stanley, Falkland Islands, -51.7, -57.85
+Sofia, Bulgaria, 42.6975, 23.3241
+Skopje, Republic of Macedonia, 42, 21.4333
+Singapore, Singapore, 1.28967, 103.85
+Seoul, Korea, 37.5683, 126.978
+Sarajevo, Bosnia and Herzegovina, 43.8486, 18.3564
+Santo Domingo, Dominican Republic, 18.5001, -69.9886
+Santiago, Chile, -33.4263, -70.5666
+Sanaa, Yemen, 15.3547, 44.2067
+San Salvador, El Salvador, 13.6893, -89.1872
+San Marino, San Marino, 43.9333, 12.45
+San Juan, Puerto Rico, 18.4663, -66.1057
+San José, Costa Rica, 9.93333, -84.0833
+Saint-Pierre, France, 46.7654, -56.1695
+Saint-Denis, France, -20.8823, 55.4504
+Saint Peter Port, Guernsey, 49.4598, -2.53527
+St. John's, Antigua and Barbuda, 17.1167, -61.85
+Saint Helier, Jersey, 49.1833, -2.1
+Saint George's, Grenada, 12.0564, -61.7485
+Roseau, Dominica, 15.3017, -61.3881
+Rome, Italy, 41.8947, 12.4839
+Road Town, British Virgin Islands, 18.4167, -64.6167
+Riyadh, Saudi Arabia, 24.6877, 46.7219
+Riga, Latvia, 56.946, 24.1059
+Reykjavik, Iceland, 64.1355, -21.8954
+Rabat, Morocco, 34.0132, -6.83255
+Quito, Ecuador, -0.22985, -78.525
+Pyongyang, North Korea, 39.0339, 125.754
+Pristina, Kosovo, 42.6727, 21.1669
+Pretoria, South Africa, -25.7449, 28.1878
+Praia, Cape Verde, 14.9215, -23.5087
+Praha, Czech Republic, 50.088, 14.4208
+Port-Vila, Vanuatu, -17.7338, 168.322
+Porto-Novo, Benin, 6.49646, 2.60359
+Port-of-Spain, Trinidad and Tobago, 10.6662, -61.5166
+Port-aux-Francais, France, -49.35, 70.2167
+Port-au-Prince, Haiti, 18.5392, -72.335
+Port Moresby, Papua New Guinea, -9.44314, 147.18
+Port Louis, Mauritius, -20.1619, 57.4989
+Podgorica, Montenegro, 42.4411, 19.2636
+Plymouth, United Kingdom, 16.7055, -62.2129
+Phnom Penh, Cambodia, 11.5625, 104.916
+Philipsburg, Sint Maarten, 18.026, -63.0458
+Paris, France, 48.8534, 2.3488
+Paramaribo, Suriname, 5.86638, -55.1668
+Papeete, French Polynesia, -17.5333, -149.567
+Panama, Panama, 8.9936, -79.5197
+Palikir - National Government Center, Micronesia, 6.92477, 158.161
+Pago Pago, American Samoa, -14.2781, -170.702
+Ouagadougou, Burkina Faso, 12.3642, -1.53834
+Ottawa, Canada, 45.4112, -75.6981
+Oslo, Norway, 59.9127, 10.7461
+Oranjestad, Aruba, 12.524, -70.027
+Nuuk, Greenland, 64.1835, -51.7216
+Nuku`alofa, Togo, -21.1333, -175.2
+Nouakchott, Mauritania, 18.1003, -15.9498
+Nicosia, Cyprus, 35.1667, 33.3667
+Niamey, Niger, 13.5125, 2.11178
+Ngerulmud, Palau, 7.50043, 134.624
+New Delhi, India, 28.6358, 77.2245
+N'Djamena, Chad, 12.1106, 15.0348
+Nay Pyi Taw, Myanmar, 19.745, 96.1297
+Nassau, Bahamas, 25.0582, -77.3431
+Nairobi, Kenya, -1.28333, 36.8167
+Muscat, Oman, 23.6133, 58.5933
+Moscow, Russia, 55.7522, 37.6156
+Moroni, Comoros, -11.7022, 43.2551
+Montevideo, Uraguay, -34.8335, -56.1673
+Monrovia, Liberia, 6.30054, -10.7969
+Monaco, Monaco, 43.7333, 7.41667
+Mogadishu, Somalia, 2.03711, 45.3438
+Minsk, Belarus, 53.9, 27.5667
+Mexico City, Mexico, 19.4285, -99.1277
+Mbabane, Swaziland, -26.3167, 31.1333
+Maseru, Lesotho, -29.3167, 27.4833
+Marigot, Saint Martin, 18.0667, -63.0833
+Mariehamn, Aland Islands, 60.0973, 19.9348
+Maputo, Mozambique, -25.9653, 32.5892
+Manila, Philippines, 14.6042, 120.982
+Manama, Bahrain, 26.2154, 50.5832
+Managua, Nicaragua, 12.1328, -86.2504
+Mamoudzou, Mayotte, -12.7794, 45.2272
+Male, Maldives, 4.1748, 73.5089
+Malabo, Equatorial Guinea, 3.75, 8.78333
+Majuro, Majuro, 7.08971, 171.38
+Madrid, Spain, 40.4165, -3.70256
+Macau, Macau, 22.2006, 113.546
+Luxembourg, Luxembourg, 49.6117, 6.13
+Lusaka, Zambia, -15.4081, 28.2864
+Luanda, Angola, -8.83833, 13.2344
+Longyearbyen, Svalbard, 78.2186, 15.6401
+London, England, 51.5085, -0.12574
+Ljubljana, Slovenia, 46.0511, 14.5051
+Lisbon, Portugal, 38.7167, -9.13333
+Lima, Peru, -12.0432, -77.0282
+Lilongwe, Malawi, -13.9833, 33.7833
+Libreville, Gabon, 0.38333, 9.45
+La Paz, Bolivia, -16.5, -68.15
+Kuwait, Kuwait, 29.3697, 47.9783
+Kuala Lumpur, Malaysia, 3.1412, 101.687
+Kinshasa, Democratic Republic of Congo, -4.32459, 15.3215
+Kingstown, Saint Vincent and the Grenadines, 13.1587, -61.2248
+Kingston, Jamaica, 17.997, -76.7936
+Kigali, Rwanda, -1.94995, 30.0589
+Kiev, Ukraine, 50.4547, 30.5238
+Khartoum, Sudan, 15.5467, 32.5336
+Kathmandu, Nepal, 27.7017, 85.3206
+Kampala, Buganda, 0.31628, 32.5822
+Kabul, Afghanistan, 34.5281, 69.1723
+Jamestown, Saint Helena, -15.9387, -5.71675
+Jakarta, Indonesia, -6.21462, 106.845
+Islamabad, Pakistan, 33.7215, 73.0433
+Honiara, Solomon Islands, -9.43333, 159.95
+Helsinki, Finland, 60.1695, 24.9354
+Havana, Cuba, 23.133, -82.383
+Harare, Zimbabwe, -17.8294, 31.0539
+Hamilton, Bermuda, 32.2915, -64.778
+Gustavia, Sait Barthelemy, 17.8962, -62.8498
+Guatemala City, Guatemala, 14.6407, -90.5133
+Grytviken, South Georgia, -54.2811, -36.5092
+Gibraltar, UK, 36.1447, -5.35257
+Georgetown, Guyana, 6.80448, -58.1553
+George Town, Cayman Islands, 19.2869, -81.3671
+Gaborone, Botswana, -24.6545, 25.9086
+Funafuti, Tuvalu, -8.52425, 179.194
+Freetown, Sierra Leone, 8.484, -13.2299
+Fort-de-France, Capital of Martinique, 14.6089, -61.0733
+Flying Fish Cove, Christmas Island, -10.4217, 105.679
+Dushanbe, Tajikistan, 38.5358, 68.779
+Dublin, Ireland, 53.344, -6.26719
+Douglas, Isle of Man, 54.15, -4.48333
+Doha, Qatar, 25.2793, 51.5224
+Dodoma, Tanzania, -6.17486, 35.7379
+Djibouti, Djibouti, 11.5877, 43.1447
+Dili, Timor-Leste, -8.55861, 125.574
+Dhaka, Bangladesh, 23.7104, 90.4074
+Damascus, Syria, 33.5102, 36.2913
+Dakar, Senegal, 14.6937, -17.4441
+Copenhagen, Denmark, 55.6759, 12.5655
+Conakry, Guinea, 9.53795, -13.6773
+Colombo, Sri Lanka, 6.93194, 79.8478
+Cockburn Town, Turks and Caicos Islands, 21.4612, -71.1419
+Chisinau, Moldova, 47.0056, 28.8575
+Charlotte Amalie, United States Virgin Islands, 18.3419, -64.9307
+Cayenne, French Guiana, 4.93333, -52.3333
+Castries, Saint Lucia, 13.9957, -61.0061
+Caracas, Venezuela, 10.5, -66.9167
+Canberra, Canberra, -35.2835, 149.128
+Cairo, Egypt, 30.0626, 31.2497
+Bujumbura, Burundi, -3.37611, 29.36
+Buenos Aires, Argentina, -34.6131, -58.3772
+Budapest, Hungary, 47.498, 19.0399
+Bucharest, Romania, 44.4323, 26.1063
+Brussels, Belgium, 50.8505, 4.34878
+Bridgetown, Barbados, 13.1, -59.6167
+Brazzaville, Republic of Congo, -4.2669, 15.2833
+Bratislava, Slovaki, 48.1482, 17.1067
+Brasilia, Brazil, -15.7797, -47.9297
+Bogota, Colombia, 4.60971, -74.0818
+Bissau, Guinea-Bissau, 11.85, -15.5833
+Bishkek, Kyrgyzstan, 42.8731, 74.6003
+Bern, Switzerland, 46.9481, 7.44744
+Berlin, Germany, 52.5244, 13.4105
+Belmopan, Belize, 17.25, -88.7667
+Belgrade, Serbia, 44.804, 20.4651
+Beirut, Labanon, 33.8889, 35.4944
+Beijing, China, 39.9075, 116.397
+Basse-Terre, Guadeloupe, 15.9985, -61.7255
+Basseterre, Federation of Saint Kitts and Nevis, 17.2948, -62.7261
+Banjul, Gambia, 13.4527, -16.578
+Bangui, Central African Republic, 4.36122, 18.555
+Bangkok, Thailand, 13.75, 100.517
+Bandar Seri Begawan, Sultanate of Brunei, 4.94029, 114.948
+Bamako, Mali, 12.65, -8
+Baku, Azerbaijan, 40.3777, 49.892
+Baghdad, Iraq, 33.3406, 44.4009
+Avarua, Rarotonga, -21.2078, -159.775
+Athens, Greece, 37.9795, 23.7162
+Asuncion, Paraguay, -25.3007, -57.6359
+Astana, Kazakhstan, 51.1801, 71.446
+Asmara, Eritrea, 15.3333, 38.9333
+Ashgabat, Turkmenistan, 37.95, 58.3833
+Apia, Samoa, -13.8333, -171.767
+Antananarivo, Madagascar, -18.9143, 47.531
+Ankara, Turkey, 39.9199, 32.8543
+Andorra la Vella, Andorra, 42.5078, 1.52109
+Amsterdam, Netherlands, 52.374, 4.88969
+Amman, Jordan, 31.9552, 35.945
+Alofi, Niue, -19.0595, -169.919
+Algiers, Algeria, 36.7525, 3.04197
+Addis Ababa, Ethiopia, 9.02497, 38.7469
+Adamstown, Pitcarin Islands, -25.066, -130.101
+Accra, Ghana, 5.55602, -0.1969
+Abuja, Nigeia, 9.05735, 7.48976
+Abu Dhabi, Dubai, 24.4667, 54.3667

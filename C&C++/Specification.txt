@@ -1,0 +1,14 @@
+Requirements Specification: City Distance Calculator 
+
+A program is required to store the names of world places (cities) and their co-ordinates 
+(latitude and longitude), and to calculate the distance between any two places. It should be 
+possible to: 
+• Perform the usual operations on the database such as, add, delete, and, modify a place and 
+its co-ordinates; 
+• Find the distance between any two places, identified by name; if necessary, replace or 
+update a city and its coordinate. 
+• Display the names of all places and their co-ordinates. 
+• Any other feature, which may make the tool more practical or interesting, e.g. features for 
+sorting the cities, dealing with cities having the same name, but located in different 
+countries (e.g. Oxford in England, and Oxford in the USA etc.). 
+

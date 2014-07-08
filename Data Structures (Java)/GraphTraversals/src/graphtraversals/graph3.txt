@@ -1,0 +1,18 @@
+Charlotte 90,50
+Maya 190,50
+Nitin 290,50
+Anoushka 150,150
+Aaron 250,150
+Malik 350,150
+Tzvetan 150,250
+Huma 50,250
+Charlotte <-> Maya
+Charlotte <-> Huma
+Maya <-> Anoushka
+Nitin <-> Malik
+Aaron <-> Malik
+Nitin <-> Aaron
+Anoushka <-> Huma
+Anoushka <-> Tzvetan
+Aaron <-> Malik
+Huma <-> Tzvetan

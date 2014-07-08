@@ -1,0 +1,28 @@
+Bethan 50,200
+Samya 70,50
+Nathan 220,50
+Katy 350,50
+Hannah 150,150
+Agnes 250,150
+Danielle 350,150
+Ciara 150,250
+Tanaka 250,250
+Jaime 350,250
+Bethan <-> Hannah
+Bethan <-> Ciara
+Samya <-> Nathan
+Nathan <-> Katy
+Hannah <-> Nathan
+Nathan <-> Agnes
+Agnes <-> Katy
+Hannah <-> Agnes
+Agnes <-> Danielle
+Ciara <-> Hannah
+Hannah <-> Tanaka
+Agnes <-> Tanaka
+Agnes <-> Jaime
+Danielle <-> Jaime
+Ciara <-> Tanaka
+Tanaka <-> Jaime
+
+

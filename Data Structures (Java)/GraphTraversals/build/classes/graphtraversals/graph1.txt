@@ -1,0 +1,15 @@
+Guillaume 250,150
+Lena 80,150
+Tosan   100,250
+Victoria 200,250
+Muhammad  400,130
+Remi 350,200
+Tosan <-> Guillaume
+Lena <-> Guillaume
+Tosan <-> Victoria
+Muhammad <-> Guillaume
+Remi <-> Victoria
+Remi <-> Muhammad
+Lena <-> Tosan
+Victoria <-> Guillaume
+
